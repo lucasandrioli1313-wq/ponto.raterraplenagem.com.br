@@ -1,0 +1,1 @@
+Atualização V4: cadastro e redefinição de senha de funcionários aceitam de 6 a 128 caracteres (redefinição); cadastro exige mínimo de 6. Validação feita no servidor e no formulário. Substitua app.py e templates/admin.html no GitHub e faça commit. Senhas anteriores continuam válidas. Recomenda-se senha mais longa para maior segurança.
